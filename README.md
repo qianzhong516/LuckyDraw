@@ -1,2 +1,2 @@
-# goodLuck
-Lucky Draw.
+# Lucky Draw System For Group Work
+Good Luck!
